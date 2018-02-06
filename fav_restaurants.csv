@@ -1,0 +1,152 @@
+student_name,name,location,cuisine,fav_dish,cost_per_person,yearly_visits,last_visit
+Megan,Moes,"Richmond, VA",Fast Food,Moo Moo Mr Cow,4.50,5,2018-01
+Megan,Ginger Thai,"Richmond, VA",Thai,Pad See Ew,12.00,3,2017-06
+Megan,Lucianos,"Mars, PA",Italian,Pasta Diablo (lunch portion),8.25,2,2017-07
+Megan,Pit and the Peel,"Richmond, VA",Other,Chipotle Quinoa Bowl,7.00,2,2017-03
+Megan,Chipotle,"Richmond, VA",Fast Food,Sofritas Bowl,7.00,6,2018-01
+Megan,Hello Bistro,"Pittsburgh, PA",Other,MTO salad,9.50,2,2017-05
+Ivy,peter_chang's_scott_addition,"Richmond, Va",Chinese,Egg roll,20.00,4,2017-11
+Ivy,full_kee_restaurant,"Richmond, Va",Chinese,Low mein,20.00,3,2017-06
+Ivy,panda_express,"Richmond, Va",Chinese,kong pao chincken,10.00,3,2017-12
+Ivy,sushi_king,"Richmond, Va",Japanese,Fried Rice,25.00,2,2018-01
+Ivy,gogi_bibimbap,"Richmond, Va",Korean,Gogi,10.00,4,2018-01
+Ivy,korean_garden_restaurant,"Richmond, Va",Korean,chicken wings,20.00,1,2017-01
+Alicia,Cheesecake Factory,"Richmond, VA",All Types,Pasta Carbonara,15.00,6,November 2017
+Alicia,Outback,"Richmond, VA",American,Chicken on the Barbie,13.00,4,October 2017
+Alicia,Mexicos,"Richmond, VA",Mexican,#F,10.00,10,December 2017
+Alicia,Little Szchewan,"Glen Allen, VA",Chinese,Chicken and Broccoli,12.00,15,November 2017
+Alicia,Baker's Crust,"Richmond, VA",American,Asiago Chicken,18.00,3,January 2018
+Alicia,Nuevo Mexico,"Glen Allen, VA",Mexican,Chicken Special,9.00,15,January 2018
+Henry,Wok Wok,"New York City, NY",Chinese,Fried rice,9.00,7,1/1/2018
+Henry,ABC kitchen,"New York City, NY",American,Beef burger,10.00,5,8/1/2017
+Henry,Gotham Bar and Grill,"New York City, NY",American,Chicken rotesserie,10.00,3,12/1/2017
+Henry,Alta,"New York City, NY",Italian,Chicken Parm,14.00,2,3/1/2017
+Henry,Continental,"Richmond, VA",American,Salad bowl,12.00,2,6/1/2017
+Henry,MeKong,"Richmond, VA",Thai,Pho,8.00,3,1/1/2018
+Natalie,Pink Basil,"Mystic, CT",Thai,Avocado salad,20.00,3,2017-06
+Natalie,Milagro Modern Mexican,"Stonington, CT",Mexican,Chips and salsa,20.00,3,2017-08
+Natalie,Panera Bread,"New Haven, CT",Fast food,Fuji apple salad,12.00,15,2017-12
+Natalie,Mango's Wood-Fired Pizza Co.,"Mystic, CT",Pizza,Cheese pizza,16.00,10,2017-12
+Natalie,Chipotle Mexican Grill,"Warwick, RI",Fast food,Chicken tacos,10.00,15,2017-12
+Natalie,Vivi Bubble Tea,"New Haven, CT",Chinese,Mango bubble tea,7.00,5,2017-12
+Josh,Gyu Kaku,"White Plains, NY",Japanese,All you can eat Beef,40.00,3,Jan 2018
+Josh,Five Guys,"Richmond, VA",American,Cheesburger and Fries,10.00,15,Jan 2018
+Josh,Lucky Buddha,"Thornwood, NY",Japanese,Hibachi Steak,25.00,10,Nov 2017
+Josh,Giannfrancos Pizza,"Mt Kisco, NY",Italian,Boss Wrap,8.00,40,Dec 2017
+Josh,Marios Pizza,"Mt Kisco, NY",Italian,Chicken Parm Roll,7.00,50,Dec 2017
+Josh,A and S Deli,"Mt Kisco, NY",Italian,BE&C,5.00,35,Jan 2018
+7,Chipotle,"Richmond, VA",Mexican,Burrito,8.00,15,Jan-18
+7,Chik fil a,"Richmond, VA",Fast food,Chicken sandwich,7.00,5,Nov-17
+7,Bertuccis,"Mansfield, MA",Italian,Chicken Parm,25.00,2,Sep-17
+7,Pie Zonis,"Franklin, MA",Pizza,Buffalo Chicken Pizza,12.00,4,Dec-17
+7,Outback Steakhouse,"Bellingham, MA",American,Filet mignon,30.00,2,Aug-17
+7,Capital Grill,"Boston, MA",American,Filet mignon,40.00,1,Jun-17
+Kelley,Mellow Mushroom,"Richmond, VA",Pizza,white pizza,12.00,4,2017-12
+Kelley,Galaxy Diner,"Richmond, VA",American,chicken salad sandwich,12.00,4,2017-08
+Kelley,Chipotle,"Richmond, VA",Fast Food,burrito bowl,7.00,15,2018-01
+Kelley,Casa Grande,"Glen Allen, VA",Mexican,chicken quesadilla,10.00,5,2017-12
+Kelley,The Continental,"Richmond, VA",American,burger,12.00,6,2017-04
+Kelley,Franco's,"Glen Allen, VA",Italian,chicken parmesan,15.00,6,2018-01
+Nat,Malones,"Lexington, KY",American,Lexingtonian Salad,20.00,20,2017-12
+Nat,Chick-fil-a,"Berea, KY",Fast Food,Chicken sandwhich,7.00,40,2017-12
+Nat,Panda Express,"Berea, KY",Fast Food,Beef and Brocoli,7.00,10,2017-8
+Nat,Mai sushi,"Richmond, VA",Japanese,Tuna Poke Bowl,13.00,20,2018-1
+Nat,7 stars,"Richmond, VA",Japanese,Tuna tower,18.00,10,2017-12
+Nat,Mexicos,"Richmond, VA",Mexican,Burrito,15.00,10,2018-11
+Andrew,The Noodle Bowl,"Savannah, GA",Vietnamese,Mongolian Beef,17.00,4,2018-1
+Andrew,Mezeh,"Richmond, VA",Fast Food,rice bowl w/ toppings,9.00,5,2017-12
+Andrew,Miyabi,"Savannah, GA",Japanese,teriyaki chicken and shrimp,18.00,3,2017-7
+Andrew,Palani Drive,"Richmond, VA",American,tabouli and hummus wrap,8.00,2,2017-11
+Andrew,Chipotle,"Savannah, GA",Fast Food,chicken burrito bowl,7.00,5,2018-1
+Andrew,Burger Bach,"Richmond, VA",American,The Original Burger,16.00,2,2016-3
+Hailey Bivens,Blue Apron,"Salem, VA",American,Scallops,29.25,8,12/2017
+Hailey Bivens,Sal's,"Roanoke, VA",Italian,Baked Ziti,17.55,6,1/1/2018
+Hailey Bivens,Palani Drive,"Richmond, VA",American,Santa Fe wrap,9.36,8,1-Nov
+Hailey Bivens,Frankie Rowland's,"Roanoke, VA",American,Filet,46.80,1,1-Jan
+Hailey Bivens,Cafe Asia 2,"Roanoke, VA",Japanese,Dragon Tail,29.25,10,1-Jan
+Hailey Bivens,Daily,"Richmond, VA",American,Burrito Bowl,12.87,1,1-Nov
+Gabbie ,Freemason Abbey,"Norfolk, VA",American,She Crab Soup,12.00,5,2017-12
+Gabbie ,Virginia Company,"Suffolk, VA",American,Crab Cakes ,25.00,3,2017-09
+Gabbie ,El Puente,"Chesapeake, VA ",Mexican,Camerones con Queso,12.00,10,2018-01
+Gabbie ,Nana Sushi,"Suffolk, VA",Japanese,Volcano Roll,15.00,4,2018-01
+Gabbie ,Buffalo Wild Wings,"Suffolk, VA",American,Parmesan Garlic Boneless Wings,15.00,6,2017-10
+Gabbie ,La Tolteca,"Chesapeake, VA ",Mexican,Chicken Chimichangas,12.00,5,2017-09
+Sam,Chick-fil-A,"Richmond, VA",Fast Food,Chicken Sandwich,7.00,15,2018-01
+Sam,Rosati's,"Overland Park, KS",Pizza,Classic Combo,25.00,10,2018-01
+Sam,Joe's KC,"Olathe, KS",Barbecue,Z-Man Sandwich,8.00,4,2018-01
+Sam,Jack Stack BBQ,"Overland Park, KS",Barbecue,Burnt Ends,12.00,2,2017-08
+Sam,Subway,"Richmond, VA",Fast Food,Italian BMT,5.00,6,2018-01
+Sam,Johnny's Tavern,"Olathe, KS",American,Burger,8.00,8,2018-01
+14,Chipotle,"Richmond, VA",Mexican,Chicken Burrito,8.00,50,1/22/2018
+14,Einstein's Bagels,"Richmond, VA",American Breakfast,"Sausage, Egg and Cheese",5.00,30,1/24/2018
+14,Jimmy John's,"Richmond, VA",Sandwiches,Bootlegger Club,6.00,25,12/8/2017
+14,Noodles & Company,"Richmond, VA",Noodle Dishes,Chicken Adobo Pasta,9.00,20,12/5/2017
+14,Christian's Pizza,"Richmond,VA",Pizza,Buffalo Chicken Pizza,8.00,10,12/2/2017
+14,Chick Fil A,"Richmond, VA",Fastfood,Fried Chicken Sandwich,7.00,10,11/28/2017
+Jeffrey,In n Out,"Chino Hills, CA",Burgers,Double Double,7.00,8,2018-01
+Jeffrey,Cook Out,"Richmond, VA",Burgers,Chili Cheese Fries,7.00,10,2018-01
+Jeffrey,26th Avenue Tacos,"Los Angeles, CA",Tacos,Al Pastor Tacos,6.00,2,2018-01
+Jeffrey,New Garden,"West Covina, CA",Chinese/Korean,Black bean noodle,12.00,3,2018-01
+Jeffrey,Taco Bell,"Richmond, VA",Mexican,cheesy fiesta potatos,6.00,5,2018-01
+Jeffrey,Chik fil a,Richmond,Chicken ,spicy chicken sandwich,7.00,8,2017-12
+Kevin,McDonald's,"Richmond, VA",Diner,mcnuggets,5.00,2,2018-01
+Kevin,Zaxbys,"Richmond, VA",Chicken,boneless wings and things,8.00,2,2018-08
+Kevin,Sushi King,"Richmond, VA",Sushi,sashimi,20.00,2,2017-11
+Kevin,Kero Express,"Yorktown, VA",Sushi,sushi,10.00,15,2018-01
+Kevin,Chickfila,"Richmond, VA",Chicken,spicy chicken sandwich,6.00,10,2018-01
+Kevin,Chipotle,"Richmond, VA",Mexican,burrito bowl,7.00,5,2018-01
+Ryan,Ben Gui,"Roanoke, VA",Sushi,Volcano roll,30.00,10,2018-01
+Ryan,Korean Garden,"Richmond,VA",Korean,Beef bulgogi,20.00,10,2017-11
+Ryan,New Grand Mart,"Richmond,VA",Korean,Sweet&Sour Fried Pork,15.00,15,2018-01
+Ryan,Vietnam 1,"Richmond,VA",Vietnamese,Beef broken rice,15.00,15,2018-01
+Ryan,Lulu's,"Richmond,VA",American,Red velvet waffles,25.00,8,Sep-17
+Ryan,Yewon,"Richmond,VA",Korean,Spicy seafood stir-fry,25.00,8,Nov-17
+DJ ,Culver's,"Chicago, IL",Fast Food,Butterburger and fries,9.00,5,2017-12
+DJ ,Hamada Tokyo,"Chicago, IL",Japanese,Chicken & Steak Combo,25.00,1,2017-12
+DJ ,Chik Fil A,"Richmond, VA",Fast Food,Deluxe Chicken Sandwich,8.00,15,2018-01
+DJ ,Gino's East,"Chicago, IL",Pizza,Meatlovers Deep Dish,12.00,2,2017-12
+DJ ,Chipotle,"RIchmond, VA",Fast Food,Chicken Burrito Bowl,8.00,10,2018-01
+DJ ,Panda Express,"RIchmond, VA",Chinese,Orange Chicken,8.00,8,2017-07
+Nicole,Zoe's Kitchen,"Richmond, VA",Other,chicken kabobs,12.00,40,2018-01
+Nicole,Smoke,"Newport News, VA",American,corn muffins ,8.00,5,2017-12
+Nicole,Mai Sushi,"Richmond, VA",Japanese,crunchy spicy tuna roll,15.00,5,2017-06
+Nicole,Burger Bach,"Richmond, VA",American,original burger,18.00,6,2018-01
+Nicole,Schooner's Grill,"Newport News, VA",American ,greek burger ,18.00,12,2017-12
+Nicole,Baker's Crust,"Richmond, VA",American ,ahi tuna burger ,18.00,2,2018-01
+Virginia,Osaka Sushi,"Richmond, VA",Chinese,california roll,12.00,3,2017-12
+Virginia,Panera,"Richmond, VA",American,greek goddess salas,15.00,20,2018-01
+Virginia,Barberitios,"High Point, NC",Fast Food,bowl,10.00,25,2017-12
+Virginia,Burger Bach,"Richmond, VA",American,original burger,12.00,10,2018-01
+Virginia,Noodles and Company,"Richmond, VA",Italian,spaghetti & meatballs,15.00,8,2018-01
+Virginia,Carter Brothers,"High Point, NC",Fast Food,bbq tray,10.00,10,2017-12
+Lidia,LaLos Cocina,"Richmond, Va",Mexican,Guarache,15.00,6,2018-01
+Lidia,Chicken Place,"Alexandria, Va",Other,Chicken Sandwhich,7.00,5,2018-01
+Lidia,IndAroma,"Alexandria, Va",Indian,Butter Chicken,14.00,3,2017-07
+Lidia,Chic Fil A,"Richmond, Va",Fast Food,Chicken Sandwhich,5.00,4,2017-10
+Lidia,Fudruckers,"Arlington, Va",Fast Food,Quarter Pounder,9.00,2,2017-07
+Lidia,Busboys and Poets,"Arlington, Va",American ,Chicken Panini,16.00,7,2017-11
+William ,Roasting Company,"Charlotte, NC",American ,Chicken and Black Bean Combo ,10.00,10,2018-1
+William ,Dish ,"Charlotte, NC",American ,Chicken and Dumplings ,10.00,5,2017-8
+William ,Penguin ,"Charlotte, NC",American ,Burger,10.00,2,2017-5
+William ,Price's Chicken Coup,"Charlotte, NC",American ,Fried Chicken,5.00,5,2018-1
+William ,Plaza Azteca ,"Charlotte, NC",Mexican ,Mole ,15.00,2,2017-5
+William ,The Black Sheep ,"Richmond, Va",American ,Sandwhich ,15.00,0,2017-1
+William ,Good Food,"Charlotte, NC",American,NA ,25.00,0,2016-1
+Brittany,Moes ,"Richmond, Va",Fast Food ,Joey Bag of Donuts ,10.00,5,2018-1
+Brittany,Chipotle Mexican Grill,"Richmond, Va",Fast Food,burrito bowl,10.00,4,2018-2
+Brittany,Plaza Azteca ,"Richmond, Va",Mexican ,Quesadilla ,15.00,8,2017-9
+Brittany,Osaka Sushi,"Richmond, Va",Japanese,Bento Box,25.00,4,2017-10
+Brittany,Chopt,"Richmond, Va",American ,Salad bowl,12.00,6,2017-6
+Brittany,Cava ,"Richmond, Va",Italian ,Salad bowl,15.00,7,2017-8
+Lorem Ipsum,Chipotle,"RIchmond, Va",Mexican,Steak Burrito,$7.50,5,1/1/2018
+Lorem Ipsum,Jersey Mike's,"RIchmond, Va",Italian,Classic Sandwich,$9.00,7,2017-18
+Lorem Ipsum,Nuevo Mexico,"Richmond, Va",Mexican,Huevos Rancheros,$7.00,3,2018-24
+Lorem Ipsum,Wendy's,"Richmond, Va",Fast Food,Baconator,$6.00,2,2017-29
+Lorem Ipsum,Chick-fil-a,"Richmond, Va",fast food,Spicy Chicken Sandwich,$6.00,3,2018-21
+Lorem Ipsum,Taco Bell,"Richmond, Va",fast food,Taco,$5.50,4,2018-31
+Akil,Chipotle,"Richmond, VA",Fast food,Burrito,10.00,12,2018-1
+Akil,Don Pablos,"Westminster, MD",Mexican,Quesidilla,15.00,1,2017-7
+Akil,Mezcal,"Westminster, MD",Mexican,Quesidilla,15.00,1,2017-6
+Akil,Maggies,"Westminster, MD",American,Chicken Chesapeake,25.00,4,2018-1
+Akil,Buffalo Wild Wings,"Richmond, VA",American,Chicken Wings,15.00,7,2017-12
+Akil,Baughers,"Westminster, MD",American,Sausage Gravy on Biscuits,4.00,24,2018-1
