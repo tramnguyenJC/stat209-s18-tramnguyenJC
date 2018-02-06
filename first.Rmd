@@ -1,0 +1,49 @@
+---
+title: "My first markdown file"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(message = FALSE)
+knitr::opts_chunk$set(warning = FALSE)
+library(readr)
+library(dplyr)
+library(ggplot2)
+```
+
+## Reading the Data
+
+This data represents the different restaurant choices, with data about price ranges, favorite dishes, locations, etc., of students in Dr. Arnold's class.
+
+```{r, echo=FALSE, message=FALSE}
+restaurants <- read_csv("https://raw.githubusercontent.com/URstats/stat209-s18-statsmaths/master/fav_restaurants.csv")
+```
+
+## Plotting the data
+
+```{r, echo=FALSE, message=FALSE}
+ggplot(restaurants, aes(cuisine)) +
+  geom_bar()
+
+```
+
+This is a bar plot of the different cuisines.
+
+```{r, echo=FALSE, message=FALSE}
+ggplot(restaurants, aes(yearly_visits, cost_per_person)) +
+  geom_point()
+
+```
+
+This is a scatter plot of number of visits per year versus cost per person.
+
+```{r, echo=FALSE, message=FALSE}
+ggplot(restaurants, aes(location)) +
+  geom_bar()
+
+```
+
+This is a bar plot of the locations visited.
+
+
